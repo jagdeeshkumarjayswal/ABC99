@@ -4,6 +4,7 @@
   "description": "GATE99 backend (single-file) — MongoDB Atlas version of Code.gs",
   "main": "server.js",
   "type": "commonjs",
+  "license": "UNLICENSED",
   "scripts": {
     "start": "node server.js"
   },
